@@ -1,4 +1,3 @@
-
 # Projeto de portfolio
 Este projeto tem como objetivo apresentar meus principais projetos realizados.
 
@@ -14,10 +13,10 @@ Este projeto tem como objetivo apresentar meus principais projetos realizados.
 
 ### Cores
 ---
-- Prinicipais: #9e00ff, #9443d8, #9443d8
-- Neutras: #fff, #f7f7f7,#e0e0e0, #ccc, #000
+- Prinicipais: #9e00ff, #9443d8, #9443d8.
+- Neutras: #fff, #f7f7f7,#e0e0e0, #ccc, #000.
 
 ## Tipografia
-- Fonte: "Dosis"
-- Tamanhos de textos: 6rem, 4.5rem, 4rem, 2rem
-- Responsivo: 3rem, 1.6rem
+- Fonte: *"Dosis"*.
+- Tamanhos de textos: 6rem, 4.5rem, 4rem, 2rem.
+- Responsivo: 3rem, 1.6rem.
