@@ -1,0 +1,37 @@
+@font-face{
+  font-family: "ChaletComprime";
+  src: url("../font/ChaletComprime.ttf");
+}
+
+@font-face {
+  font-family: "Dosis";
+  src: url("../font/Dosis[wght].ttf");
+}
+@font-face {
+  font-family: "Dosis-bold";
+  src: url("../font/Dosis-Bold.otf");
+}
+@font-face {
+  font-family: "Dosis-book";
+  src: url("../font/Dosis-Book.otf");
+}
+@font-face{
+  font-family: "Dosis-extrabold";
+  src:url("../font/Dosis-ExtraBold.otf")
+}
+@font-face{
+  font-family: "Dosis-extralight";
+  src: url("../font/Dosis-ExtraLight.otf")
+}
+@font-face{
+  font-family: "Dosis-light";
+  src: url("../font/Dosis-Light.otf");
+}
+@font-face {
+  font-family: "Dosis-medium";
+  src: url("../font/Dosis-Medium.otf");
+}
+@font-face {
+  font-family: "Dosis-semibold";
+  src: url("../font/Dosis-SemiBold.otf");
+}
