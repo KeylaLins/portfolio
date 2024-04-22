@@ -2,7 +2,7 @@
 Este projeto tem como objetivo apresentar meus principais projetos realizados.
 
 ## Projeto
-### 🔗 Acesse o <a href="https://keylalins.github.io/portfolio/" title="Acessar" target="_blank">link  do projeto.</a>
+### 🔗 Acesse o <a href="https://keylalins.github.io/portfolio/" title="Acessar" target="_blank">link ativo.</a>
 
 <img src="./src/design/animacao-desktop.gif" target="_blank">
 
