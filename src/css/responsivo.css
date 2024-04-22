@@ -9,7 +9,7 @@
     margin: 50px;
     gap: 30px;
   }
-  
+
 
   .home .informacoes{
     max-width: 100%;
@@ -24,11 +24,11 @@
 
 @media(max-width: 425px){
   .home .informacoes h1{
-    font-size: 30px;
+    font-size: 3rem;
   }
 
   .home .informacoes p{
-    font-size: 16px;
+    font-size: 1.6rem;
   }
 
   .home .foto-perfil img{
